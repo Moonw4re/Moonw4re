@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B46,100:6046A8&height=230&section=header&text=MOONW4RE&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20%26%20Forensic%20Computing&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B46,100:6046A8&height=230&section=header&text=MOONW4RE&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20and%20Forensic%20Computing&descAlignY=65" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58C9FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Manal.;VAPT+%7C+Ethical+Hacking;OT%2FICS+Security;Digital+Forensics"/>
 
@@ -16,35 +16,43 @@
 
 I'm a senior Cybersecurity & Forensic Computing student at the University of Prince Mugrin. My curiosity drives me to explore how systems work, how they break, and how they can be secured.
 
-I'm particularly interested in vulnerability assessment, ethical hacking, adversarial techniques, and the security of industrial systems.
+My primary interests are Vulnerability Assessment and Penetration Testing (VAPT), Ethical Hacking, and OT/ICS Security, alongside digital investigations and adversarial techniques.
 
-![Dean's List](https://img.shields.io/badge/Dean's_List-162B46?style=for-the-badge)
+<p>
 
-![Mawhiba Alumni](https://img.shields.io/badge/Mawhiba_Alumna-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/Dean's_List-162B46?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Mawhiba_Alumni-6046A8?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 02 // Security Interests
 
-![VAPT](https://img.shields.io/badge/VAPT-162B46?style=for-the-badge)
+<p>
 
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/VAPT-162B46?style=for-the-badge"/>
 
-![OT Security](https://img.shields.io/badge/OT%2FICS_Security-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/Ethical_Hacking-162B46?style=for-the-badge"/>
 
-![Offensive Security](https://img.shields.io/badge/Offensive_Security-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/OT%2FICS_Security-162B46?style=for-the-badge"/>
 
-![Defensive Security](https://img.shields.io/badge/Defensive_Security-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/Offensive_Security-162B46?style=for-the-badge"/>
 
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/Defensive_Security-162B46?style=for-the-badge"/>
 
-![Incident Response](https://img.shields.io/badge/Incident_Response-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/Digital_Forensics-6046A8?style=for-the-badge"/>
 
-![IoT Security](https://img.shields.io/badge/IoT_Security-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/Incident_Response-6046A8?style=for-the-badge"/>
 
-![AI](https://img.shields.io/badge/AI--Driven_Cybersecurity-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/IoT_Security-6046A8?style=for-the-badge"/>
 
-![Cryptography](https://img.shields.io/badge/Cryptography-6046A8?style=for-the-badge)
+<img src="https://img.shields.io/badge/AI--Driven_Cybersecurity-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cryptography-6046A8?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -52,7 +60,7 @@ I'm particularly interested in vulnerability assessment, ethical hacking, advers
 
 ### Digital Forensics Analyst
 
-**Confidential Government Entity**  
+**Confidential Government Entity**
 
 June – August 2026
 
@@ -66,111 +74,141 @@ Completed 360 hours of practical training in cybercrime and digital forensics, g
 
 ### Offensive & Network Security
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-05122A?style=for-the-badge&logo=kalilinux&logoColor=58C9FF)
+<p>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-05122A?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+<img src="https://img.shields.io/badge/Kali_Linux-162B46?style=for-the-badge&logo=kalilinux&logoColor=58C9FF"/>
 
-![Metasploit](https://img.shields.io/badge/Metasploit-05122A?style=for-the-badge&logo=metasploit&logoColor=58C9FF)
+<img src="https://img.shields.io/badge/Burp_Suite-162B46?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-05122A?style=for-the-badge&logo=wireshark&logoColor=58C9FF)
+<img src="https://img.shields.io/badge/Metasploit-162B46?style=for-the-badge&logo=metasploit&logoColor=58C9FF"/>
 
-![Nmap](https://img.shields.io/badge/Nmap-05122A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Wireshark-162B46?style=for-the-badge&logo=wireshark&logoColor=58C9FF"/>
 
-![Lynis](https://img.shields.io/badge/Lynis-05122A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Nmap-162B46?style=for-the-badge"/>
 
-![Cowrie](https://img.shields.io/badge/Cowrie-05122A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Lynis-162B46?style=for-the-badge"/>
 
-![Sysmon](https://img.shields.io/badge/Sysmon-05122A?style=for-the-badge)
+<img src="https://img.shields.io/badge/Cowrie-162B46?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sysmon-162B46?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenVAS-162B46?style=for-the-badge"/>
+
+</p>
 
 ### Digital Forensics
 
-![Cellebrite](https://img.shields.io/badge/Cellebrite_UFED-282044?style=for-the-badge)
+<p>
 
-![Physical Analyzer](https://img.shields.io/badge/Physical_Analyzer-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Cellebrite_UFED-6046A8?style=for-the-badge"/>
 
-![Magnet AXIOM](https://img.shields.io/badge/Magnet_AXIOM-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Physical_Analyzer-6046A8?style=for-the-badge"/>
 
-![EnCase](https://img.shields.io/badge/EnCase-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Magnet_AXIOM-6046A8?style=for-the-badge"/>
 
-![Oxygen](https://img.shields.io/badge/Oxygen_Forensics-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/EnCase-6046A8?style=for-the-badge"/>
 
-![MSAB](https://img.shields.io/badge/MSAB_XRY%2FXAMN-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Oxygen_Forensics-6046A8?style=for-the-badge"/>
 
-![Volatility](https://img.shields.io/badge/Volatility-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/MSAB_XRY%2FXAMN-6046A8?style=for-the-badge"/>
 
-![Amped](https://img.shields.io/badge/Amped_FIVE-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Volatility-6046A8?style=for-the-badge"/>
 
-![MD RED](https://img.shields.io/badge/MD--RED-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/Amped_FIVE-6046A8?style=for-the-badge"/>
 
-![MD NEXT](https://img.shields.io/badge/MD--NEXT-282044?style=for-the-badge)
+<img src="https://img.shields.io/badge/MD--RED-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MD--NEXT-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Recover_My_Files-6046A8?style=for-the-badge"/>
+
+</p>
 
 ### OT & Industrial Systems
 
-![OpenPLC](https://img.shields.io/badge/OpenPLC-162B46?style=for-the-badge)
+<p>
 
-![CODESYS](https://img.shields.io/badge/CODESYS-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenPLC-162B46?style=for-the-badge"/>
 
-![PLC](https://img.shields.io/badge/PLC-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/CODESYS-162B46?style=for-the-badge"/>
 
-![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-162B46?style=for-the-badge)
+<img src="https://img.shields.io/badge/PLC-162B46?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ladder_Logic-162B46?style=for-the-badge"/>
+
+</p>
+
+### IoT & Firmware Security
+
+<p>
+
+<img src="https://img.shields.io/badge/AttifyOS-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Binwalk-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Firmadyne-6046A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QEMU-6046A8?style=for-the-badge"/>
+
+</p>
 
 ### Development & Virtualization
 
-<div align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,linux,ubuntu,kali,docker,bash,git,github,vscode&theme=dark&perline=6"/>
 
-<br><br>
+</p>
 
-![VMware](https://img.shields.io/badge/VMware-05122A?style=for-the-badge&logo=vmware)
+<p>
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-05122A?style=for-the-badge&logo=virtualbox)
+<img src="https://img.shields.io/badge/VMware-162B46?style=for-the-badge&logo=vmware"/>
 
-</div>
+<img src="https://img.shields.io/badge/VirtualBox-162B46?style=for-the-badge&logo=virtualbox"/>
+
+</p>
 
 ---
 
 ## 05 // Project Archive
 
-Selected academic projects and technical investigations.
+Selected academic team projects and technical investigations.
 
-| Project | Domain |
-| --- | --- |
-| Web Application Penetration Testing | Offensive Security |
-| IoT Firmware Security Analysis | IoT & Embedded Security |
-| Linux Privilege Escalation & Defense | System Security |
-| Honeypot Deployment & Attack Analysis | Cyber Defense |
-| Digital Image Authenticity | Digital Forensics |
-| Bitcoin-Style Transaction Security | Applied Cryptography |
-| AI Robot Path Planning | Artificial Intelligence |
-| Healthcare Cybersecurity Risk Assessment | Risk Management |
+<table>
 
----
+<tr><th>Project</th><th>Domain</th></tr>
 
+<tr><td>Web Application Penetration Testing</td><td>Offensive Security</td></tr>
 
-## 06 // GitHub Activity
+<tr><td>IoT Firmware Security Analysis</td><td>IoT &amp; Embedded Security</td></tr>
 
-<div align="center">
+<tr><td>Linux Privilege Escalation &amp; Defense</td><td>System Security</td></tr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moonw4re&hide_border=true&background=0D1117&ring=58C9FF&fire=B9A1EF&currStreakLabel=58C9FF&sideLabels=B9A1EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="95%"/>
+<tr><td>Honeypot Deployment &amp; Attack Analysis</td><td>Cyber Defense</td></tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moonw4re&bg_color=0d1117&color=b9a1ef&line=58c9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<tr><td>Digital Image Authenticity</td><td>Digital Forensics</td></tr>
 
-</div>
+<tr><td>Bitcoin-Style Transaction Security</td><td>Applied Cryptography</td></tr>
+
+<tr><td>AI Robot Path Planning</td><td>Artificial Intelligence</td></tr>
+
+<tr><td>Healthcare Cybersecurity Risk Assessment</td><td>Risk Management</td></tr>
+
+</table>
 
 ---
 
-## 07 // Connect with Me
+## 06 // Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)](https://www.linkedin.com/in/manal-a-3b7451321/)
+<a href="https://www.linkedin.com/in/manal-a-3b7451321/">
 
-<br>
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Moonw4re&color=6046A8&style=for-the-badge&label=PROFILE+VIEWS)
+</a>
 
-<br>
+<br><br>
 
 <i>Question everything. Trust the evidence.</i>
 
