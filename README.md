@@ -20,7 +20,7 @@ I'm particularly interested in vulnerability assessment, ethical hacking, advers
 
 ![Dean's List](https://img.shields.io/badge/Dean's_List-162B46?style=for-the-badge)
 
-![Mawhiba Alumna](https://img.shields.io/badge/Mawhiba_Alumna-6046A8?style=for-the-badge)
+![Mawhiba Alumni](https://img.shields.io/badge/Mawhiba_Alumna-6046A8?style=for-the-badge)
 
 ---
 
@@ -132,29 +132,21 @@ Completed 360 hours of practical training in cybercrime and digital forensics, g
 
 ## 05 // Project Archive
 
-Selected academic team projects and technical investigations.
+Selected academic projects and technical investigations.
 
 | Project | Domain |
-
-| :--- | :--- |
-
+| --- | --- |
 | Web Application Penetration Testing | Offensive Security |
-
 | IoT Firmware Security Analysis | IoT & Embedded Security |
-
 | Linux Privilege Escalation & Defense | System Security |
-
 | Honeypot Deployment & Attack Analysis | Cyber Defense |
-
 | Digital Image Authenticity | Digital Forensics |
-
 | Bitcoin-Style Transaction Security | Applied Cryptography |
-
 | AI Robot Path Planning | Artificial Intelligence |
-
 | Healthcare Cybersecurity Risk Assessment | Risk Management |
 
 ---
+
 
 ## 06 // GitHub Activity
 
@@ -172,7 +164,7 @@ Selected academic team projects and technical investigations.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)](https://www.linkedin.com/in/manal-a-3b7451321/)
 
 <br>
 
