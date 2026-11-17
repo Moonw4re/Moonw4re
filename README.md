@@ -172,7 +172,7 @@ Completed 360 hours of practical training in cybercrime and digital forensics, g
 
 ## 05 // Project Archive
 
-Selected academic team projects and technical investigations.
+A curated collection of cybersecurity projects, hands-on security assessments, and technical investigations.
 
 <table>
 
