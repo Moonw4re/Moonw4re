@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B46,100:6046A8&height=230&section=header&text=MOONW4RE&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20and%20Forensic%20Computing&descAlignY=65" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58C9FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Manal.;VAPT+%7C+Ethical+Hacking;OT%2FICS+Security;Digital+Forensics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1500&color=58C9FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Manal."/>
 
 <br>
 
