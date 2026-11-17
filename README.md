@@ -178,7 +178,7 @@ Selected academic team projects and technical investigations.
 
 <tr><th>Project</th><th>Domain</th></tr>
 
-<tr><td>Web Application Penetration Testing</td><td>Offensive Security</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/SQL-Injection-Pentesting">SQL Injection Penetration Testing</a></td><td>Offensive Security</td></tr>
 
 <tr><td>IoT Firmware Security Analysis</td><td>IoT &amp; Embedded Security</td></tr>
 
