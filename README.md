@@ -180,7 +180,7 @@ A curated collection of cybersecurity projects, hands-on security assessments, a
 
 <tr><td><a href="https://github.com/Moonw4re/SQL-Injection-Pentesting">SQL Injection Penetration Testing</a></td><td>Offensive Security</td></tr>
 
-<tr><td>IoT Firmware Security Analysis</td><td>IoT &amp; Embedded Security</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/IoT-Firmware-Security">IoT Firmware Security Analysis</a></td><td>IoT &amp; Embedded Security</td></tr>
 
 <tr><td>Linux Privilege Escalation &amp; Defense</td><td>System Security</td></tr>
 
