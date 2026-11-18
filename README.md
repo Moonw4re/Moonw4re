@@ -182,7 +182,7 @@ A curated collection of cybersecurity projects, hands-on security assessments, a
 
 <tr><td><a href="https://github.com/Moonw4re/IoT-Firmware-Security">IoT Firmware Security Analysis</a></td><td>IoT &amp; Embedded Security</td></tr>
 
-<tr><td>Linux Privilege Escalation &amp; Defense</td><td>System Security</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/Linux-Privilege-Escalation">Linux Privilege Escalation &amp; Defense</a></td><td>System Security</td></tr>
 
 <tr><td>Honeypot Deployment &amp; Attack Analysis</td><td>Cyber Defense</td></tr>
 
