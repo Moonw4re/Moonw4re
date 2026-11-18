@@ -192,7 +192,7 @@ A curated collection of cybersecurity projects, hands-on security assessments, a
 
 <tr><td><a href="https://github.com/Moonw4re/AI-Robot-Path-Planning">AI Robot Path Planning</a></td><td>Artificial Intelligence</td></tr>
 
-<tr><td>Healthcare Cybersecurity Risk Assessment</td><td>Risk Management</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/Healthcare-Cybersecurity-Risk-Assessment">Healthcare Cybersecurity Risk Assessment</a></td><td>Risk Management</td></tr>
 
 </table>
 
