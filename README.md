@@ -184,7 +184,7 @@ A curated collection of cybersecurity projects, hands-on security assessments, a
 
 <tr><td><a href="https://github.com/Moonw4re/Linux-Privilege-Escalation">Linux Privilege Escalation &amp; Defense</a></td><td>System Security</td></tr>
 
-<tr><td>Honeypot Deployment &amp; Attack Analysis</td><td>Cyber Defense</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/Honeypot-Attack-Analysis">Honeypot Deployment &amp; Attack Analysis</a></td><td>Cyber Defense</td></tr>
 
 <tr><td>Digital Image Authenticity</td><td>Digital Forensics</td></tr>
 
