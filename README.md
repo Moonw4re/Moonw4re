@@ -188,7 +188,7 @@ A curated collection of cybersecurity projects, hands-on security assessments, a
 
 <tr><td><a href="https://github.com/Moonw4re/Digital-Image-Authenticity">Digital Image Authenticity</a></td><td>Digital Forensics</td></tr>
 
-<tr><td>Bitcoin-Style Transaction Security</td><td>Applied Cryptography</td></tr>
+<tr><td><a href="https://github.com/Moonw4re/Bitcoin-Style-Transaction-Security">Bitcoin-Style Transaction Security</a></td><td>Applied Cryptography</td></tr>
 
 <tr><td>AI Robot Path Planning</td><td>Artificial Intelligence</td></tr>
 
